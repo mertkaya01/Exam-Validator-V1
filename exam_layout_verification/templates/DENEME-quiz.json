@@ -1,0 +1,435 @@
+{
+  "version": 2,
+  "examId": "DENEME-quiz-2026",
+  "generatedAt": "2026-05-04T13:02:42.803Z",
+  "courseCode": "DENEME",
+  "examType": "quiz",
+  "date": "2026-05-04",
+  "totalPages": 1,
+  "pages": [
+    {
+      "pageId": "P1_DENEME_quiz_2026",
+      "pageIndex": 0,
+      "pageWidth": 756,
+      "pageHeight": 1086,
+      "anchors": {
+        "TL": {
+          "type": "bullseye",
+          "center": {
+            "x": 11,
+            "y": 11
+          },
+          "diameter": 16
+        },
+        "TR": {
+          "type": "bullseye",
+          "center": {
+            "x": 745,
+            "y": 11
+          },
+          "diameter": 16
+        },
+        "BL": {
+          "type": "bullseye",
+          "center": {
+            "x": 11,
+            "y": 1075
+          },
+          "diameter": 16
+        },
+        "BR": {
+          "type": "bullseye",
+          "center": {
+            "x": 745,
+            "y": 1075
+          },
+          "diameter": 16
+        }
+      },
+      "studentNumberRegion": {
+        "x": 421,
+        "y": 109.9,
+        "w": 325,
+        "h": 72.7
+      },
+      "studentNumberBoxes": [
+        {
+          "x": 430,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 461,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 492,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 523,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 554,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 585,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 616,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 647,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 678,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 709,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        }
+      ],
+      "questions": {
+        "1": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 10,
+            "y": 336,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "A"
+          },
+          "options": {
+            "A": {
+              "x": 21,
+              "y": 394.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 195.5,
+              "y": 394.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 21,
+              "y": 413.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 195.5,
+              "y": 413.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "2": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 383,
+            "y": 336,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "C"
+          },
+          "options": {
+            "A": {
+              "x": 394,
+              "y": 394.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 568.5,
+              "y": 394.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 394,
+              "y": 413.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 568.5,
+              "y": 413.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "3": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 10,
+            "y": 443,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "C"
+          },
+          "options": {
+            "A": {
+              "x": 21,
+              "y": 501.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 195.5,
+              "y": 501.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 21,
+              "y": 520.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 195.5,
+              "y": 520.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "4": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 383,
+            "y": 443,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "B"
+          },
+          "options": {
+            "A": {
+              "x": 394,
+              "y": 501.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 568.5,
+              "y": 501.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 394,
+              "y": 520.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 568.5,
+              "y": 520.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "5": {
+          "type": "open_ended",
+          "boundingBox": {
+            "x": 10,
+            "y": 550,
+            "w": 363,
+            "h": 230.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": null
+          },
+          "expectedAnswer": {
+            "text": "DENEMEDENEMEDENEMEDENEMEDENEMEDENEMEDENEMEDENEME"
+          },
+          "solutionArea": {
+            "x": 21,
+            "y": 609.3,
+            "w": 341,
+            "h": 160
+          }
+        },
+        "6": {
+          "type": "matching",
+          "boundingBox": {
+            "x": 383,
+            "y": 550,
+            "w": 363,
+            "h": 185.9
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 2
+          },
+          "expectedAnswer": {
+            "correctMatches": {
+              "1": "A",
+              "2": "B"
+            }
+          },
+          "answerSection": {
+            "x": 394,
+            "y": 676.9,
+            "w": 341,
+            "h": 48
+          },
+          "answerBoxes": {
+            "1": {
+              "x": 421,
+              "y": 691.9,
+              "w": 55,
+              "h": 24
+            },
+            "2": {
+              "x": 503,
+              "y": 691.9,
+              "w": 55,
+              "h": 24
+            }
+          }
+        },
+        "7": {
+          "type": "fill_blanks",
+          "boundingBox": {
+            "x": 383,
+            "y": 740,
+            "w": 363,
+            "h": 192.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctBlanks": {
+              "1": "DENEME",
+              "2": "DENEME",
+              "3": "DENEME",
+              "4": "DENEME"
+            }
+          },
+          "fillBlanks": {
+            "1": {
+              "x": 437.6,
+              "y": 798.3,
+              "w": 50,
+              "h": 12
+            },
+            "2": {
+              "x": 536,
+              "y": 798.3,
+              "w": 50,
+              "h": 12
+            },
+            "3": {
+              "x": 634.3,
+              "y": 798.3,
+              "w": 50,
+              "h": 12
+            },
+            "4": {
+              "x": 396,
+              "y": 818.3,
+              "w": 50,
+              "h": 12
+            }
+          },
+          "answerSection": {
+            "x": 394,
+            "y": 844.3,
+            "w": 341,
+            "h": 77
+          },
+          "answerBoxes": {
+            "1": {
+              "x": 421,
+              "y": 859.3,
+              "w": 104,
+              "h": 24
+            },
+            "2": {
+              "x": 552,
+              "y": 859.3,
+              "w": 104,
+              "h": 24
+            },
+            "3": {
+              "x": 421,
+              "y": 888.3,
+              "w": 104,
+              "h": 24
+            },
+            "4": {
+              "x": 552,
+              "y": 888.3,
+              "w": 104,
+              "h": 24
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "version": 2,
+  "examId": "ICE101-midterm-2026",
+  "generatedAt": "2026-04-20T19:48:25.297Z",
+  "courseCode": "ICE101",
+  "examType": "midterm",
+  "date": "2026-04-21",
+  "totalPages": 1,
+  "pages": [
+    {
+      "pageId": "P1_ICE101_midterm_2026",
+      "pageIndex": 0,
+      "pageWidth": 756,
+      "pageHeight": 1086,
+      "anchors": {
+        "TL": {
+          "type": "bullseye",
+          "center": {
+            "x": 11,
+            "y": 11
+          },
+          "diameter": 16
+        },
+        "TR": {
+          "type": "bullseye",
+          "center": {
+            "x": 745,
+            "y": 11
+          },
+          "diameter": 16
+        },
+        "BL": {
+          "type": "bullseye",
+          "center": {
+            "x": 11,
+            "y": 1075
+          },
+          "diameter": 16
+        },
+        "BR": {
+          "type": "bullseye",
+          "center": {
+            "x": 745,
+            "y": 1075
+          },
+          "diameter": 16
+        }
+      },
+      "studentNumberRegion": {
+        "x": 421,
+        "y": 109.9,
+        "w": 325,
+        "h": 72.7
+      },
+      "studentNumberBoxes": [
+        {
+          "x": 430,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 461,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 492,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 523,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 554,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 585,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 616,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 647,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 678,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        },
+        {
+          "x": 709,
+          "y": 130.5,
+          "w": 28,
+          "h": 34
+        }
+      ],
+      "questions": {
+        "1": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 10,
+            "y": 323,
+            "w": 363,
+            "h": 134.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "A"
+          },
+          "options": {
+            "A": {
+              "x": 21,
+              "y": 381.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 21,
+              "y": 398.1,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 21,
+              "y": 414.6,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 21,
+              "y": 431.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "2": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 383,
+            "y": 323,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "C"
+          },
+          "options": {
+            "A": {
+              "x": 394,
+              "y": 381.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 568.5,
+              "y": 381.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 394,
+              "y": 400.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 568.5,
+              "y": 400.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "3": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 383,
+            "y": 430,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "B"
+          },
+          "options": {
+            "A": {
+              "x": 394,
+              "y": 488.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 568.5,
+              "y": 488.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 394,
+              "y": 507.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 568.5,
+              "y": 507.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "4": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 10,
+            "y": 461,
+            "w": 363,
+            "h": 134.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "B"
+          },
+          "options": {
+            "A": {
+              "x": 21,
+              "y": 519.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 21,
+              "y": 536.1,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 21,
+              "y": 552.6,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 21,
+              "y": 569.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "5": {
+          "type": "multiple_choice",
+          "boundingBox": {
+            "x": 383,
+            "y": 537,
+            "w": 363,
+            "h": 103.3
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctOption": "C"
+          },
+          "options": {
+            "A": {
+              "x": 394,
+              "y": 595.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 568.5,
+              "y": 595.6,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 394,
+              "y": 614.1,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 568.5,
+              "y": 614.1,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "6": {
+          "type": "multi_select",
+          "boundingBox": {
+            "x": 10,
+            "y": 644,
+            "w": 736,
+            "h": 150.8
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 5
+          },
+          "expectedAnswer": {
+            "correctOptions": [
+              "B",
+              "D"
+            ]
+          },
+          "options": {
+            "A": {
+              "x": 21,
+              "y": 702.6,
+              "w": 12,
+              "h": 12
+            },
+            "B": {
+              "x": 21,
+              "y": 719.1,
+              "w": 12,
+              "h": 12
+            },
+            "C": {
+              "x": 21,
+              "y": 735.6,
+              "w": 12,
+              "h": 12
+            },
+            "D": {
+              "x": 21,
+              "y": 752.1,
+              "w": 12,
+              "h": 12
+            },
+            "E": {
+              "x": 21,
+              "y": 768.6,
+              "w": 12,
+              "h": 12
+            }
+          }
+        },
+        "7": {
+          "type": "matching",
+          "boundingBox": {
+            "x": 10,
+            "y": 799,
+            "w": 363,
+            "h": 228.9
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 4
+          },
+          "expectedAnswer": {
+            "correctMatches": {
+              "1": "B",
+              "2": "A",
+              "3": "C",
+              "4": "D"
+            }
+          },
+          "answerSection": {
+            "x": 21,
+            "y": 968.9,
+            "w": 341,
+            "h": 48
+          },
+          "answerBoxes": {
+            "1": {
+              "x": 48,
+              "y": 983.9,
+              "w": 55,
+              "h": 24
+            },
+            "2": {
+              "x": 130,
+              "y": 983.9,
+              "w": 55,
+              "h": 24
+            },
+            "3": {
+              "x": 212,
+              "y": 983.9,
+              "w": 55,
+              "h": 24
+            },
+            "4": {
+              "x": 294,
+              "y": 983.9,
+              "w": 55,
+              "h": 24
+            }
+          }
+        },
+        "8": {
+          "type": "matching",
+          "boundingBox": {
+            "x": 383,
+            "y": 799,
+            "w": 363,
+            "h": 207.4
+          },
+          "scoring": {
+            "points": 10,
+            "penaltyPerItem": 0,
+            "itemCount": 3
+          },
+          "expectedAnswer": {
+            "correctMatches": {
+              "1": "B",
+              "2": "C",
+              "3": "A"
+            }
+          },
+          "answerSection": {
+            "x": 394,
+            "y": 947.4,
+            "w": 341,
+            "h": 48
+          },
+          "answerBoxes": {
+            "1": {
+              "x": 421,
+              "y": 962.4,
+              "w": 55,
+              "h": 24
+            },
+            "2": {
+              "x": 503,
+              "y": 962.4,
+              "w": 55,
+              "h": 24
+            },
+            "3": {
+              "x": 585,
+              "y": 962.4,
+              "w": 55,
+              "h": 24
+            }
+          }
+        }
+      }
+    }
+  ]
+}
